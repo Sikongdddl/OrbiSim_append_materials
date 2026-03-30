@@ -7,7 +7,7 @@
 ## 🔴 Figure 1
 ## Downstream Policy Performance
 <p align="center">
-  <img src="docs/figures/fig1.png" width="95%">
+  <img src="./Figure1.png" width="95%">
 </p>
 BC / SAC / PPO / PPO+Intrinsic / DreamerV3 / **OrbiSim (Dynamics)**  
 **Metrics:** r1, r2, r3, total reward, success rate
@@ -17,7 +17,7 @@ BC / SAC / PPO / PPO+Intrinsic / DreamerV3 / **OrbiSim (Dynamics)**
 ## 🔴 Figure 2
 ## Model Architecture
 <p align="center">
-  <img src="docs/figures/fig2.png" width="95%">
+  <img src="./Figure2.png" width="95%">
 </p>
 State Inference Module + Physics Inference Module
 
@@ -35,7 +35,7 @@ Visualization across diverse tasks and object variations
 ## 🔴 Figure 4
 ## Memory Scaling
 <p align="center">
-  <img src="docs/figures/fig4.png" width="95%">
+  <img src="./Figure4.png" width="95%">
 </p>
 GPU memory usage vs. number of objects
 
