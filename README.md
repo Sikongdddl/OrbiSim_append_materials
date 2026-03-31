@@ -30,6 +30,6 @@ GPU memory usage vs. number of objects
 ## 🔴 Figure 4
 ## Point Cloud Experiments
 
-![Figure 6](docs/figures/fig6.png)
+![Figure 4](Figure4.png)
 
 Visualization results with point cloud inputs
