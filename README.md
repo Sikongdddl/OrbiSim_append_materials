@@ -20,7 +20,7 @@ State Inference Module + Physics Inference Module
 ## 🔴 Figure 3
 ## Memory Scaling
 
-![Figure 4](Figure4.png)
+![Figure 3](Figure3.png)
 
 GPU memory usage vs. number of objects
 
